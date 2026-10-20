@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej7-SumDivisible\\Ej7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D9D9E1-E409-4431-B7FB-4A4396A542BC}|Ej7\\Ej7.vcxproj|C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej7-SumDivisible\\Ej7\\Ej7\\Ej7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6D9D9E1-E409-4431-B7FB-4A4396A542BC}|Ej7\\Ej7.vcxproj|solutionrelative:Ej7\\Ej7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej7.cpp",
+              "DocumentMoniker": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej7-SumDivisible\\Ej7\\Ej7\\Ej7.cpp",
+              "RelativeDocumentMoniker": "Ej7\\Ej7.cpp",
+              "ToolTip": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej7-SumDivisible\\Ej7\\Ej7\\Ej7.cpp",
+              "RelativeToolTip": "Ej7\\Ej7.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T19:25:36.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej42-TareasClase\\Ej42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAAC452-1481-47FC-BC62-0B7E65C1C2FA}|Ej42\\Ej42.vcxproj|C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej42-TareasClase\\Ej42\\Ej42\\Ej42.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EAAC452-1481-47FC-BC62-0B7E65C1C2FA}|Ej42\\Ej42.vcxproj|solutionrelative:Ej42\\Ej42.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej42.cpp",
+              "DocumentMoniker": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej42-TareasClase\\Ej42\\Ej42\\Ej42.cpp",
+              "RelativeDocumentMoniker": "Ej42\\Ej42.cpp",
+              "ToolTip": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej42-TareasClase\\Ej42\\Ej42\\Ej42.cpp",
+              "RelativeToolTip": "Ej42\\Ej42.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T12:07:28.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

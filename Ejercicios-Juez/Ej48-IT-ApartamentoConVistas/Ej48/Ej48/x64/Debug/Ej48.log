@@ -1,0 +1,3 @@
+﻿  Ej48.cpp
+C:\Universidad\FAL\Ejercicios-Juez\Ej48-IT-ApartamentoConVistas\Ej48\Ej48\Ej48.cpp(23,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ej48.vcxproj -> C:\Universidad\FAL\Ejercicios-Juez\Ej48-IT-ApartamentoConVistas\Ej48\x64\Debug\Ej48.exe

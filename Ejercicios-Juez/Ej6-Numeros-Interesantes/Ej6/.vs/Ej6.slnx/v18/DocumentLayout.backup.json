@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej6-Numeros-Interesantes\\Ej6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA5A632-1234-412E-852B-020FD5CCEFBD}|Ej6\\Ej6.vcxproj|C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej6-Numeros-Interesantes\\Ej6\\Ej6\\Ej6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FA5A632-1234-412E-852B-020FD5CCEFBD}|Ej6\\Ej6.vcxproj|solutionrelative:Ej6\\Ej6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA5A632-1234-412E-852B-020FD5CCEFBD}|Ej6\\Ej6.vcxproj|C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej6-Numeros-Interesantes\\Ej6\\Ej6\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FA5A632-1234-412E-852B-020FD5CCEFBD}|Ej6\\Ej6.vcxproj|solutionrelative:Ej6\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datos.txt",
+              "DocumentMoniker": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej6-Numeros-Interesantes\\Ej6\\Ej6\\datos.txt",
+              "RelativeDocumentMoniker": "Ej6\\datos.txt",
+              "ToolTip": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej6-Numeros-Interesantes\\Ej6\\Ej6\\datos.txt",
+              "RelativeToolTip": "Ej6\\datos.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-08T21:58:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej6.cpp",
+              "DocumentMoniker": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej6-Numeros-Interesantes\\Ej6\\Ej6\\Ej6.cpp",
+              "RelativeDocumentMoniker": "Ej6\\Ej6.cpp",
+              "ToolTip": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej6-Numeros-Interesantes\\Ej6\\Ej6\\Ej6.cpp",
+              "RelativeToolTip": "Ej6\\Ej6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T21:21:57.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

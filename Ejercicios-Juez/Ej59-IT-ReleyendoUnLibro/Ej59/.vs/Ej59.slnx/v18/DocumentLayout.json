@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej59-IT-ReleyendoUnLibro\\Ej59\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5AB88A-DCE3-4FFC-A2AD-2F5474A86B43}|Ej59\\Ej59.vcxproj|C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej59-IT-ReleyendoUnLibro\\Ej59\\Ej59\\Ej59.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B5AB88A-DCE3-4FFC-A2AD-2F5474A86B43}|Ej59\\Ej59.vcxproj|solutionrelative:Ej59\\Ej59.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej59.cpp",
+              "DocumentMoniker": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej59-IT-ReleyendoUnLibro\\Ej59\\Ej59\\Ej59.cpp",
+              "RelativeDocumentMoniker": "Ej59\\Ej59.cpp",
+              "ToolTip": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej59-IT-ReleyendoUnLibro\\Ej59\\Ej59\\Ej59.cpp",
+              "RelativeToolTip": "Ej59\\Ej59.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-06T11:58:49.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

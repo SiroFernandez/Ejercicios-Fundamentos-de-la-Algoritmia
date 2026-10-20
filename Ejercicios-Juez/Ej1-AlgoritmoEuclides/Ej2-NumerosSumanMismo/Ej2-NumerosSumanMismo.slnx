@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ej2-NumerosSumanMismo/Ej2-NumerosSumanMismo.vcxproj" />
+</Solution>

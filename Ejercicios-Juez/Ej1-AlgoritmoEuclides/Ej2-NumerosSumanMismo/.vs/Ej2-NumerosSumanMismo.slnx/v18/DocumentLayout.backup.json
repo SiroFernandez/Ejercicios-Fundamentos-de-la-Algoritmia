@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej1-AlgoritmoEuclides\\Ej2-NumerosSumanMismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805CF75F-6D71-4EA0-AC34-D7FF28232CB1}|Ej2-NumerosSumanMismo\\Ej2-NumerosSumanMismo.vcxproj|C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej1-AlgoritmoEuclides\\Ej2-NumerosSumanMismo\\Ej2-NumerosSumanMismo\\SumanMismo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{805CF75F-6D71-4EA0-AC34-D7FF28232CB1}|Ej2-NumerosSumanMismo\\Ej2-NumerosSumanMismo.vcxproj|solutionrelative:Ej2-NumerosSumanMismo\\SumanMismo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumanMismo.cpp",
+              "DocumentMoniker": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej1-AlgoritmoEuclides\\Ej2-NumerosSumanMismo\\Ej2-NumerosSumanMismo\\SumanMismo.cpp",
+              "RelativeDocumentMoniker": "Ej2-NumerosSumanMismo\\SumanMismo.cpp",
+              "ToolTip": "C:\\Universidad\\FAL\\Ejercicios-Juez\\Ej1-AlgoritmoEuclides\\Ej2-NumerosSumanMismo\\Ej2-NumerosSumanMismo\\SumanMismo.cpp",
+              "RelativeToolTip": "Ej2-NumerosSumanMismo\\SumanMismo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-27T18:55:08.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

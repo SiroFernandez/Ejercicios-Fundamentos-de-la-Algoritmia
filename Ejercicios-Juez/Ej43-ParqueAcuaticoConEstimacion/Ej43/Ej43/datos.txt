@@ -1,0 +1,19 @@
+3 10
+Tobogan 6 100 0
+Piscina 5 50 0
+Rio 5 60 0
+4 15
+Playa 10 1 0
+Tobogan 4 2 1
+Turbulencias 8 5 1
+Lago 2 1 0
+5 5
+Playa 2 4 0
+Rio 2 4 0
+Olas 4 8 1
+Tobogan 3 8 1
+Turbulencias 1 4 1
+2 5
+Tubo 3 10 1
+Olas 2 20 1
+0 0
